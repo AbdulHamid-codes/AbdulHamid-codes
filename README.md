@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulHamid-codes
-- 👀 I’m interested in problem solving and programming particularly in c++. 
-- 🌱 I’m currently learning database systems and operating systems. These are actully the courses in my CS major. 
-- 💞️ I’m looking to collaborate on any biginner level project preferrably in C++.
+- 👀 I’m interested in problem solving and web development. 
+- 🌱 I’m currently learning web development. 
+- 💞️ I’m looking to collaborate on any biginner level project of web development in PHP.
 - 📫 I can be reached at abdulhamidlaspure@gmail.com
 
 <!---
