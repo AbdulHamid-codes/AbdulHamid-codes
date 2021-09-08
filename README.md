@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulHamid-codes
 - 👀 I’m interested in problem solving and web development. 
 - 🌱 I’m currently learning web development. 
-- 💞️ I’m looking to collaborate on any biginner level project of web development in PHP.
+- 💞️ I’m looking to collaborate on any biginner level project of web development.
 - 📫 I can be reached at abdulhamidlaspure@gmail.com
 
 <!---
