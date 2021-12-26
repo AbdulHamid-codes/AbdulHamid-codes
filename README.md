@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving and web development. 
 - 🌱 I’m currently learning web development. 
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 I can be reached at ah230826@gmail.com
+- 📫 I can be reached at abdulhamidlaspure@gmail.com
 - 💻 My portfolio https://abdulhamid-codes.github.io/My-portfolio/
 
 <!---
